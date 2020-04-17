@@ -1,0 +1,4 @@
+-r req.txt
+--index-url https://nexus.dev.com/repository/abc-pypi
+cxjob
+Django==1.9.13
